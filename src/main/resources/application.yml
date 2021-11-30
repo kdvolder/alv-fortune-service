@@ -9,9 +9,9 @@
 #    hibernate:
 #      ddl-auto: create-drop
 spring:
-  profiles:
-    active:
-    - down
+  # profiles:
+  #   active:
+  #   - down
   application:
     name: fortune-service
   session:
